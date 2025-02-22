@@ -1,11 +1,11 @@
 # HR-Analytics-Dashboard 📊
 
 
-🎯 ## Objective:
+ ## Objective:
 Help an organization to improve employee performance and improve retention (reduce attrition) by creating an HR Analytics dashboard.
 
 
-🛠️ ## **Tools Used**
+ ## **Tools Used**
 
 * Power BI
 * Power Query
