@@ -11,6 +11,8 @@ Help an organization to improve employee performance and improve retention (redu
 * Power Query
 * Dax Query
 
+### **Dashboard**
+![Dashboard_Image](https://github.com/naheeda78/HR--Analytics-Dashboard/blob/main/Dashboard.png)
 
 Here are the steps involved in creating HR analytics dashboard:
 
